@@ -1,4 +1,29 @@
-.toppage .botpage {
-    background-color: #1F2937;
+.dark {
+    background-color: #1f2937;
+}
+header {
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+.clicks {
+    list-style: none;
+    display: flex;
+    margin: 0;
     
+    
+
+}
+a:link {color: #e5e7eb;}
+a:visited {color: #e5e7eb;}
+a:hover {color: #e5e7eb;}
+a:active {color: #e5e7eb;}
+.links {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    margin:auto;
+    ;
+
+
 }
