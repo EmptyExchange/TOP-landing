@@ -6,11 +6,7 @@ header {
     color: #e5e7eb;
 
 }
-.clicks {
-    list-style: none;
-    display: flex;
-    margin: 0;
-    
+
     
 
 }
@@ -23,7 +19,12 @@ a:active {color: #e5e7eb;}
     justify-content: space-between;
     padding: 25px;
     margin:auto;
-    ;
+    
 
 
+}
+ul { list-style: none;
+    display: flex;
+    margin: 0;
+    gap: 10px
 }
