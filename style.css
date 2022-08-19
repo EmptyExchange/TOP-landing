@@ -15,7 +15,6 @@ h1 {
     justify-content: left;
     padding-left: 25px;
     margin-bottom: 0px;
-
 }
 .below {
     font-size: 18px;
@@ -24,17 +23,19 @@ h1 {
     padding-left: 25px;
     margin-top: 0px;
     max-width: 500px;
-
-
-
-
 }
 button {
     background-color: #3882f6;
+    color: #f9faf8;
+    margin-top: 0;
+    margin-left: 25px;
+    border-radius: 35px;
+
+
 }
     
 
-}
+
 a:link {color: #e5e7eb;}
 a:visited {color: #e5e7eb;}
 a:hover {color: #e5e7eb;}
