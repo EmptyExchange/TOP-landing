@@ -93,3 +93,21 @@ h2 {
     display:flex;
     justify-content: space-between;
 }
+.testimonial {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.words {
+    font-size: 36px;
+    font-style: italic;
+    color:#1f2937;
+    font-weight: light;
+
+}
+h2 {
+    margin-top: 0;
+    
+}
