@@ -2,8 +2,9 @@
     background-color: #1f2937;
 }
 header {
-    font-size: 18px;
-    color: #e5e7eb;
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
 
 }
 h1 {
@@ -33,7 +34,9 @@ button {
     margin-bottom: 50px;
     display: flex;
     justify-content: center;
-    width: 100px;;
+    width: 100px;
+    padding: 7px;
+    font-weight: bold;
     
 
 
@@ -48,7 +51,7 @@ button {
 .dog {
     display: flex;
     justify-content: right;
-    padding-right: 50px;
+    padding-right: 150px;
     padding-bottom: 50px;
     margin-top: 0;
 }
