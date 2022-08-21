@@ -33,6 +33,7 @@ button {
 
 
 }
+
     
 
 
@@ -40,6 +41,8 @@ a:link {color: #e5e7eb;}
 a:visited {color: #e5e7eb;}
 a:hover {color: #e5e7eb;}
 a:active {color: #e5e7eb;}
+
+
 .links {
     display: flex;
     justify-content: space-between;
